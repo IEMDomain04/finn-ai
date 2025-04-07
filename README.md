@@ -18,6 +18,14 @@ This will install the needed Node.js dependencies for the frontend.
 npm install
 ```
 
+Then..
+
+```bash
+pip install -r requirements.txt
+```
+
+Kapag nag install goods na yan, kapag wala naman nangyari goods na rin yan, kase na install na eh.
+
 <h3> Step 3: Run the Backend Node Server </h3>
 Inside the src folder, right-click on the config folder and select "Open in Integrated Terminal". Then, in the terminal, type the command:
 
